@@ -1,0 +1,63 @@
+{
+ "schema_version": 2,
+ "generated_at": "2026-10-24T15:11:23+00:00",
+ "cities": {
+  "monterrey": {
+   "slug": "monterrey",
+   "name": "Monterrey",
+   "timezone": "America/Monterrey",
+   "sources": [
+    {
+     "name": "AREMA",
+     "url": "https://arema.mx"
+    },
+    {
+     "name": "Arena Monterrey",
+     "url": "https://www.arenamonterrey.com"
+    },
+    {
+     "name": "CONARTE",
+     "url": "https://conarte.org.mx"
+    },
+    {
+     "name": "Cineteca Nuevo León",
+     "url": "https://conarte.org.mx/cineteca/"
+    },
+    {
+     "name": "Agenda manual",
+     "url": null
+    },
+    {
+     "name": "Gobierno de Nuevo León",
+     "url": "https://www.nl.gob.mx/es/eventos"
+    },
+    {
+     "name": "San Pedro Parques",
+     "url": "https://sanpedroparques.mx"
+    },
+    {
+     "name": "Showcenter Complex",
+     "url": "https://showcenter.com.mx"
+    },
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.ticketmaster.com.mx"
+    },
+    {
+     "name": "Tricket",
+     "url": "https://tricket.com.mx"
+    },
+    {
+     "name": "Cultura UANL",
+     "url": "https://cultura.uanl.mx"
+    }
+   ],
+   "collections": [
+    {
+     "slug": "santa-lucia",
+     "name": "Festival Santa Lucía"
+    }
+   ]
+  }
+ }
+}
